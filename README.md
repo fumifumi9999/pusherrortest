@@ -1,0 +1,2 @@
+# pusherrortest
+2班のpusherrorを再現するために作成したrepository
